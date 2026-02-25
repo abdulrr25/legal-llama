@@ -234,11 +234,3 @@ LegalLama demonstrates:
 LegalLama provides AI-generated legal information for educational purposes only. It does not replace professional legal advice.
 
 ---
-
-## 👨‍💻 Author
-
-**Abdul Rahman**  
-B.Tech Computer Science  
-Full Stack & Web3 Developer  
-
-🔗 GitHub: https://github.com/abdulrr25
